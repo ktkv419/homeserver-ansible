@@ -1,0 +1,12 @@
+username: username
+packages:
+  - vim
+  - htop
+  - neofetch
+  - tmux
+  - speedtest-cli
+  - nnn
+  - git
+hostname: hostname
+server-ip: server_ip
+ssh-key-path: ssh_key_path
